@@ -497,7 +497,7 @@ ol {
 	width: 32px;
 	height: 32px;
 	color: #fff;
-	background: #491f70;
+	background: #4e4e4e;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
@@ -513,7 +513,8 @@ ol {
 }
 
 .social a:hover {
-	background: #eb2b63;
+	background: #fff;
+	color: #4e4e4e;
 }
 
 /*------------------
@@ -707,7 +708,7 @@ ol {
 	display: inline-flex;
 	width: 87px;
 	height: 87px;
-	background: #eb2b63;
+	background: #4e4e4e;
 	font-size: 43px;
 	color: #fff;
 	-webkit-box-align: center;
@@ -842,7 +843,7 @@ ol {
 }
 
 .testimonials-slider .owl-dots .owl-dot.active {
-	background: #eb2b63;
+	background: #4e4e4e;
 }
 
 .testimonial-item {
@@ -893,7 +894,7 @@ ol {
 }
 
 .testimonial-item .ti-author span {
-	color: #eb2b63;
+	color: #4e4e4e;
 	font-weight: 700;
 }
 
@@ -990,7 +991,7 @@ ol {
 }
 
 .footer-top-section {
-	background: #200545;
+	background: #000000;
 }
 
 .footer-widget .fw-title {
@@ -1011,7 +1012,6 @@ ol {
 	margin-bottom: 15px;
 	font-size: 14px;
 	color: #fff;
-	opacity: 0.25;
 }
 
 .footer-widget.about-widget img {
@@ -1019,7 +1019,6 @@ ol {
 }
 
 .footer-widget.about-widget p {
-	opacity: 0.25;
 	margin-bottom: 30px;
 }
 
@@ -1050,7 +1049,6 @@ ol {
 .sb-latest-post-widget .lp-content h6 {
 	font-size: 14px;
 	font-weight: 400;
-	opacity: 0.25;
 	color: #fff;
 	margin-bottom: 5px;
 }
@@ -1058,7 +1056,9 @@ ol {
 .fw-latest-post-widget .lp-content span,
 .sb-latest-post-widget .lp-content span {
 	font-size: 12px;
-	color: #eb2b63;
+	color: #4e4e4e;
+  font-weight: bold;
+}
 }
 
 /*--------------------
