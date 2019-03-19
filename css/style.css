@@ -565,6 +565,12 @@ ol {
 	color: #eb2b63;
 }
 
+.nav-logo {
+	letter-spacing: 1px;
+	color: #fff;
+	margin: 15px;
+}
+
 .user-panel {
 	float: right;
 	background: #eb2b63;
